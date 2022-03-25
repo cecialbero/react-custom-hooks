@@ -1,6 +1,6 @@
 # useForm
 
-Ejemplo:
+Example:
 
 ```
     const initialForm = {
@@ -9,6 +9,6 @@ Ejemplo:
         email: ''
     };
     
-    const [ formValues, handleInputChange, reset ] = useForm( initialForm );
+    const [ formValues, handleInputChange, reset ] = useForm( initialForm )
 
 ```
